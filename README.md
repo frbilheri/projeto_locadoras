@@ -70,6 +70,16 @@ projeto-locadoras-bi/
 
 ## Como Visualizar o Projeto
 
+### Dashboard Online (Versão Interativa)
+
+Você pode navegar e interagir diretamente com o painel publicado no Power BI Service pelo link:
+
+**[Acessar Dashboard Interativo no Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiZDQ0NGJhODYtNDFhOS00M2U4LWI1M2YtNTk0MjU4NmFiMDQ1IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9&pageName=584d5182be693bbefced)**
+
+---
+
+### Execução Local (Power BI Desktop)
+
 1. Clone este repositório para o seu ambiente local.
 2. Acesse a pasta `dashboard/` e abra o arquivo `projeto_locadoras.pbix` no Power BI Desktop.
 3. Certifique-se de que as bases contidas na pasta `data/` estejam conectadas corretamente.
