@@ -58,6 +58,7 @@ projeto-locadoras-bi/
 │   └── projeto_locadoras.pbix
 │
 ├── docs/                        # Imagens do relatório para documentação
+│   ├── relatorio_analitico_executivo.pdf
 │   ├── visao_geral_financeira.png
 │   ├── analise_frota_market_share.png
 │   └── impacto_socioeconomico.png
