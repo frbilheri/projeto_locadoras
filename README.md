@@ -16,7 +16,7 @@ O painel foi estruturado para atender a três pilares fundamentais de decisão e
 
 * **Ferramenta de BI:** Power BI Desktop
 * **Linguagem de Análise:** DAX (Data Analysis Expressions)
-* **Modelagem de Dados:** Star Schema (Relacionamentos $1:N$ com a tabela dimensão central `d_ano`)
+* **Modelagem de Dados:** Star Schema rigoroso (Relacionamentos 1:N integrando a dimensão temporal central d_ano e as dimensões de negócio d_fabricante, d_subsegmento e d_locadoras)
 * **Recursos Avançados de UX/UI:**
 * Drillthrough funcional por Fabricante (página detalhada para análise individual de montadoras).
 * Tooltips customizados dinâmicos em página para acompanhamento histórico YoY.
