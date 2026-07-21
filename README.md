@@ -76,6 +76,7 @@ projeto-locadoras-bi/
 Você pode navegar e interagir diretamente com o painel publicado no Power BI Service pelo link:
 
 **[Acessar Dashboard Interativo no Power BI Web](https://app.powerbi.com/view?r=eyJrIjoiZDQ0NGJhODYtNDFhOS00M2U4LWI1M2YtNTk0MjU4NmFiMDQ1IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9&pageName=584d5182be693bbefced)**
+**[Visualizar Relatório Executivo Completo em PDF](./docs/relatorio_analitico_executivo.pdf)**
 
 ---
 
